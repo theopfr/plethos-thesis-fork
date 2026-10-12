@@ -1,8 +1,10 @@
 
-[![OpenSSF Best Practices](https://www.bestpractices.dev/projects/15131/badge)](https://www.bestpractices.dev/projects/15131)
+
+> [!NOTE]  
+> This repository is a snapshot of Plethos as I developed it for my bachelor thesis and it is not maintained. To install Plethos or contribute to it, use the official repository on [Codeberg](https://codeberg.org/hmcloudlabs/plethos). Plethos is used in production at Munich University of Applied Sciences (HM).
 
 <p align="center">
-  <img src="assets/plethos-logo-framed.svg" alt="Plethos logo" width="180" />
+  <img src="assets/plethos-logo-framed.svg" alt="Plethos logo" width="140" />
 </p>
 
 # Plethos
